@@ -90,8 +90,7 @@ I architect and build AI systems for production. Currently **Director of AI at B
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amloii&theme=dark&hide_border=true&background=0D1117&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" width="49%">
-  <img src="https://github-profile-trophy.vercel.app/?username=amloii&theme=onedark&no-frame=true&no-bg=true&row=1&column=5&margin-w=8" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amloii&theme=dark&hide_border=true&background=0D1117&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E">
 </p>
 
 <p align="center">
