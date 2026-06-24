@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amloii/amloii.github.io/main/assets/img/logo.png" width="120" style="border-radius: 50%;">
+  <img src="profile.jpg" width="120" style="border-radius: 50%;">
 </p>
 
 <p align="center">
