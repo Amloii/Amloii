@@ -85,6 +85,4 @@ I architect and build AI systems for production. Currently **Director of AI at B
 
 <p align="center">
   <sub>Madrid, Spain — Remote / Hybrid</sub>
-  <br>
-  <img src="https://komarev.com/ghpv/?username=amloii&color=C8A96E&style=flat-square">
 </p>
