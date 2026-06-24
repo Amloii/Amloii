@@ -79,8 +79,19 @@ I architect and build AI systems for production. Currently **Director of AI at B
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amloii&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=8B5CF6&text_color=F7F7FB&title_color=C8A96E&hide=contribs" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amloii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=F7F7FB&title_color=C8A96E&langs_count=6&hide=html,css" width="49%">
+  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=flat-square">
+  <img src="https://img.shields.io/badge/LLMs-25601B?style=flat-square">
+  <img src="https://img.shields.io/badge/RAG-3ECF8E?style=flat-square">
+  <img src="https://img.shields.io/badge/Multi--Agent-FF6B6B?style=flat-square">
+  <img src="https://img.shields.io/badge/Computer%20Vision-1E90FF?style=flat-square">
+  <img src="https://img.shields.io/badge/NLP-FFD700?style=flat-square">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amloii&theme=dark&hide_border=true&background=0D1117&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" width="49%">
+  <img src="https://github-profile-trophy.vercel.app/?username=amloii&theme=onedark&no-frame=true&no-bg=true&row=1&column=5&margin-w=8" width="49%">
 </p>
 
 <p align="center">
