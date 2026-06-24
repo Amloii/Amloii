@@ -60,7 +60,6 @@ I architect and build AI systems for production. Currently **Director of AI at B
   <summary>More projects</summary>
   <ul>
     <li><b><a href="https://github.com/Amloii/InAFewWords">In A Few Words</a></b> — Multilingual text summarization with mT5.</li>
-    <li><b><a href="https://amloii.github.io">amloii.github.io</a></b> — Bilingual portfolio with custom design system and search.</li>
   </ul>
 </details>
 
