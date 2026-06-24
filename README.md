@@ -1,19 +1,91 @@
-<h1 align="center">Hi 👋, I'm Daniel Gomez Dominguez</h1>
-<h3 align="center">Data Scientist and ML worker</h3>
-
-- 🔭 I’m currently working on **NLP and Fake review detection**
-
-- 👨‍💻 All of my projects are available at [my linktree](https://linktr.ee/amloii)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amloii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amloii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danigdominguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danigdominguez" height="30" width="40" /></a>
-<a href="https://kaggle.com/amloii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amloii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amloii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amloii" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amloii/amloii.github.io/main/assets/img/logo.png" width="120" style="border-radius: 50%;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>Daniel Gómez Domínguez</b><br>
+  AI Systems Architect · Director of Intelligence<br>
+  <i>Agentic AI · LLMs · RAG · Multi-Agent Systems</i>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amloii&show_icons=true&locale=en" alt="amloii" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/danigdominguez">LinkedIn</a> •
+  <a href="https://amloii.github.io">Portfolio</a> •
+  <a href="https://linktr.ee/amloii">Linktree</a> •
+  <a href="mailto:danigdominguez@gmail.com">Email</a>
+</p>
+
+---
+
+I architect and build AI systems for production. Currently **Director of AI at BillionHands** (NextChance Group), leading the AI strategy and building agentic systems for a global rankings platform. Previously founded the computer vision MVP that became Adsviu, led AI at Multimarkts, and detected fraud at NoFakes.
+
+7+ years shipping AI — from research at Instituto Cajal (CSIC, *Nature Neuroscience*) to product leadership. Still hands-on: I write TypeScript, Python, and Kotlin daily.
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>StarLight Brain</h3>
+      <p><img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase"> <img src="https://img.shields.io/badge/pgvector-8B5CF6?style=flat-square"></p>
+      <p>A second brain with semantic memory. Knowledge graph, pgvector embeddings, AI-powered capture. Cross-platform mobile + web.</p>
+      <p><a href="https://github.com/Amloii/startlight-brain-app">Repo →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Fight Mode</h3>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite"> <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square"></p>
+      <p>Gamified productivity with a samurai battle theme. AI task decomposition, warrior collection, streaks. Built at the Bolt Hackathon.</p>
+      <p><a href="https://github.com/Amloii/time-killing-app">Repo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>NoFakingWay</h3>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"></p>
+      <p>Multi-filter NLP pipeline for fake review and spam detection. Language, PII, and URL validation.</p>
+      <p><a href="https://github.com/Amloii/NoFakingWay">Repo →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Delirium Tremens</h3>
+      <p><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface"> <img src="https://img.shields.io/badge/OWL--ViT-000000?style=flat-square"></p>
+      <p>Zero-shot COCO dataset generator using OWL-ViT. Built for the Adsviu computer vision MVP.</p>
+      <p><a href="https://github.com/Amloii/Delirium-Tremens">Repo →</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>More projects</summary>
+  <ul>
+    <li><b><a href="https://github.com/Amloii/InAFewWords">In A Few Words</a></b> — Multilingual text summarization with mT5.</li>
+    <li><b><a href="https://amloii.github.io">amloii.github.io</a></b> — Bilingual portfolio with custom design system and search.</li>
+  </ul>
+</details>
+
+---
+
+## Career
+
+| Role | Company | Focus |
+|---|---|---|
+| **Director of AI** | BillionHands (NextChance) | Agentic AI, multi-agent systems, RAG |
+| **Director of AI** | Multimarkts (NextChance) | Multimodal embeddings, vector DB, generative AI |
+| **Technical Founder** | Adsviu (NextChance) | 0-to-1 CV MVP, x3 CTR, x4 Brand Awareness |
+| **Lead Data Scientist** | NoFakes (NextChance) | NLP fraud detection, GPT-text detection |
+| **Senior Data Scientist** | BillionHands (NextChance) | Visual search AI, +500k downloads |
+| **Researcher (PhD stage)** | Instituto Cajal, CSIC | Computational neuroscience, ~900 citations |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amloii&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=8B5CF6&text_color=F7F7FB&title_color=C8A96E&hide=contribs" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amloii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=F7F7FB&title_color=C8A96E&langs_count=6&hide=html,css" width="49%">
+</p>
+
+<p align="center">
+  <sub>Madrid, Spain — Remote / Hybrid</sub>
+  <br>
+  <img src="https://komarev.com/ghpv/?username=amloii&color=C8A96E&style=flat-square">
+</p>
