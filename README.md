@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/danigdominguez">LinkedIn</a> •
-  <a href="https://amloii.github.io">Portfolio</a> •
+  <a href="https://amloii-page.pages.dev">Portfolio</a> •
   <a href="https://linktr.ee/amloii">Linktree</a> •
   <a href="mailto:danigdominguez@gmail.com">Email</a>
 </p>
@@ -96,3 +96,13 @@ I architect and build AI systems for production. Currently **Director of AI at B
 <p align="center">
   <sub>Madrid, Spain — Remote / Hybrid</sub>
 </p>
+
+---
+
+## 👤 Author
+
+**Daniel Gómez Domínguez** — AI Systems Architect & Director of AI.
+
+Built as a pet project exploring multilingual NLP and HuggingFace transformer pipelines, prior to the widespread availability of LLM-based summarization.
+
+[GitHub](https://github.com/Amloii) · [LinkedIn](https://linkedin.com/in/danigdominguez) · [Portfolio](https://amloii-page.pages.dev)
