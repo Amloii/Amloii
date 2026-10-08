@@ -27,12 +27,10 @@ I architect and build AI systems for production. Currently **Director of AI at B
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github.com/Amloii/KT1-deskpet/raw/main/docs/media/demo_overview.gif" alt="KT1 DeskPet live demo" width="400">
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top" align="center">
       <h3>KT1 DeskPet 🤖</h3>
       <p><img src="https://img.shields.io/badge/ESP32--S3-2E3440?style=flat-square"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google"> <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio"></p>
+      <p><img src="https://github.com/Amloii/KT1-deskpet/raw/main/docs/media/demo_overview.gif" alt="KT1 DeskPet live demo" width="480"></p>
       <p>A desk companion with expressive eyes that nags you to stand up and answers when you talk to it. ESP32-S3 + 2.8" touch, Cornell movement coach, pomodoro, plant sensing, Gemini voice + Windows companion.</p>
       <p><a href="https://github.com/Amloii/KT1-deskpet">Repo →</a></p>
     </td>
